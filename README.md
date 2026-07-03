@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./resources/title.gif" alt="Descripción del GIF" />
+  <img src="./resources/title.jpg" alt="Titulo" />
 </div>
