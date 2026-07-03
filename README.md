@@ -19,6 +19,13 @@
 </p>
 
 <br/>
+
+<p>
+    <strong>▸ Tutor privado de programación para estudiantes universitarios.</strong>
+</p>
+
+<br/>
+<br/>
 <br/>
 <br/>
 <h2 align="center">λ Tecnologías λ</h2>
