@@ -22,4 +22,9 @@
 <br/>
 <br/>
 <h2 align="center">λ Tecnologías λ</h2>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+<p align="left">
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python.svg" width="50" /></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/cplusplus.svg" width="50" /></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgresql.svg" width="50" /></a>
+</p>
