@@ -21,7 +21,7 @@
       </p>
     </td>
     <td align="right" width="30%">
-      <img src="./resources/cont.gif" alt="cont1" width="150" />
+      <img src="./resources/cont.gif" alt="cont1" width="300" />
     </td>
   </tr>
 </table>
