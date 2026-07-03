@@ -23,8 +23,15 @@
 <br/>
 <h2 align="center">λ Tecnologías λ</h2>
 
-<p align="left">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python.svg" width="50" /></a>
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/cplusplus.svg" width="50" /></a>
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgresql.svg" width="50" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
 </p>
