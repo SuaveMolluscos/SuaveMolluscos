@@ -6,29 +6,30 @@
   <a href="#">
     <img src="./resources/linkedin.svg" alt="Linkedin" />
   </a>
+  <a href="https://pin.it/31Vp71TUl">
+    <img src="./resources/pinterest.svg" alt="pinterest" />
+  </a>
 </div>
 
-<h2 align="center">🜁 SOBRE MI 🜁</h2>
+<h2 align="center">🜁 ABOUT ME 🜁</h2>
 
 <img src="resources/cont.gif" alt="cont1" width="200" align="right" style="margin-left:20px;" />
 <br/>
 <p>
-    Hola, <em><b>soy Suave</em></b>, desarrollador backend con enfoque en soluciones robustas y eficientes. 
-    Trabajo con Python, C++ y PostgreSQL, y disfruto diseñar sistemas que resuelvan problemas reales 
-    con lógica limpia. Siempre estoy abierto a colaborar en proyectos interesantes y a nuevas oportunidades.
+    Hello, <em><b>I'm Suave</em></b>, a backend developer with a focus on robust and efficient solutions. I work with Python, C++, and PostgreSQL, and I enjoy designing systems that solve real problems with clean logic. I am always open to collaborating on interesting projects and to new opportunities.
 </p>
 
 <br/>
 
 <p>
-    <strong>▸ Tutor privado de programación para estudiantes universitarios.</strong>
+    <strong>▸ Private programming tutor for university students.</strong>
 </p>
 
 <br/>
 <br/>
 <br/>
 <br/>
-<h2 align="center">λ Tecnologías λ</h2>
+<h2 align="center">λ Technologies λ</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
